@@ -2,9 +2,6 @@
 
 # Web Developer 😃
 
-### Work in... 💻
-<a href="https://www.xlgames.com/"><img src="https://img.shields.io/badge/XLGames-red"/></img></a>
-
 ### Can Do 👍
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
